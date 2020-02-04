@@ -1,0 +1,22 @@
+Jan. 26, 2020 11:42:26 P.M. com.dpenny.mcda5510.dao.MySQLAccess callLogger
+CONFIG: Configuration done.
+Jan. 26, 2020 11:42:26 P.M. com.dpenny.mcda5510.Assignment1 main
+INFO: Enter your Choice: 
+Jan. 26, 2020 11:42:33 P.M. com.dpenny.mcda5510.Assignment1 main
+INFO: 4
+Jan. 26, 2020 11:42:33 P.M. com.dpenny.mcda5510.Assignment1 main
+INFO: Enter TransactionID: 
+Jan. 26, 2020 11:42:35 P.M. com.dpenny.mcda5510.dao.MySQLAccess deleteResult
+INFO: Record deleted successfully
+Jan. 26, 2020 11:42:35 P.M. com.dpenny.mcda5510.dao.MySQLAccess deleteResult
+INFO: Delete Failed! ID doesn't exist
+Jan. 26, 2020 11:42:35 P.M. com.dpenny.mcda5510.Assignment1 main
+INFO: 2
+Jan. 26, 2020 11:42:35 P.M. com.dpenny.mcda5510.Assignment1 main
+INFO: To Continue press (Y/y) or press any other key to exit
+Jan. 26, 2020 11:42:49 P.M. com.dpenny.mcda5510.Assignment1 main
+INFO: Y
+Jan. 26, 2020 11:42:49 P.M. com.dpenny.mcda5510.Assignment1 main
+INFO: Enter your Choice: 
+Jan. 26, 2020 11:42:56 P.M. com.dpenny.mcda5510.Assignment1 main
+WARNING: null
